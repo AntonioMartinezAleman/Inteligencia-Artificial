@@ -1,0 +1,16 @@
+Iteracion 1
+Generados: 2 15
+Inspeccionados: 1
+-------------------------------
+Iteracion 2
+Generados: 2 15 13
+Inspeccionados: 1 2
+-------------------------------
+Iteracion 3
+Generados: 2 15 13
+Inspeccionados: 1 2 15
+-------------------------------
+Camino: 1 - 15
+-------------------------------
+Costo: 0.00
+-------------------------------
